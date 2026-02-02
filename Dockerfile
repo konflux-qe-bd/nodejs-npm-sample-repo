@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi10/nodejs-22@sha256:11a7e442c26772f6c0e90f8a32b5c15d08686fd41a371ed92759ca4d19c66cf2
+FROM registry.access.redhat.com/ubi10/nodejs-22@sha256:a712f54c10ebd74ce6e6609bb53308e285703fe791f6299557a54bedb4bf537a
 
 WORKDIR /app
 USER 1001
